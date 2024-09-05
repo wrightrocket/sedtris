@@ -4,4 +4,4 @@ Never realized it was a full-blown programming language until I saw this!
 Once my current directory contained the files from the repository,
 I played it easily by just typing: bash sedtris.sh
 
-![Game Over](/blob/master/firstgame.png)
+![Game Over](https://github.com/wrightrocket/sedtris/blob/master/firstgame.png)
